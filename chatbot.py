@@ -1,0 +1,5 @@
+print ("Hey welcome to my chatbot")
+name= input ("Enter your name")
+print("It's nice to meet you today",name)
+age= input ("How old are you?")
+print ("You are", age, "years old? Thats awesome")
